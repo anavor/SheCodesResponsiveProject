@@ -105,4 +105,8 @@ div.background {
   .positioning {
     padding-top: 70px;
   }
+
+  .photo {
+    max-width: 440px;
+  }
 }
