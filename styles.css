@@ -40,6 +40,10 @@ a.btn {
   border-radius: 25px;
   font-family: var(--button-text-font);
 }
+a.nodecor {
+  color: var(--primary-color);
+  text-decoration: none;
+}
 
 div.background {
   background-image: url("images/bg.png");
