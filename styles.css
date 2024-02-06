@@ -109,4 +109,8 @@ div.background {
   .photo {
     max-width: 440px;
   }
+
+  .small {
+    font-size: 10px;
+  }
 }
